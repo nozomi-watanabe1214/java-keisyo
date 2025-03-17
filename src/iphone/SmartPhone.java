@@ -10,7 +10,7 @@ public class SmartPhone extends Mp3Player {
 	public void photo() {
 		System.out.println("写真");
 	}
-	public void initernet() {
+	public void internet() {
 		System.out.println("インターネット");
 	}
 
